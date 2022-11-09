@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /index.html/
+Allow: /about-us.html/
+Allow: /custom-website.html/
+Allow: /e-commerce.html/
+Allow: /digital-marketing.html/
+Allow: /seo-ppc-advertising.html/
+Allow: /contact-us.html/
+Allow: /asset/*
+Sitemap: http://houston.returnondata.agency/sitemap.xml/
