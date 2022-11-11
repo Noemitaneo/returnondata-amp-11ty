@@ -1,0 +1,25 @@
+{
+  "name": "returnondata-amp-11ty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "ENV=prod eleventy",
+    "watch": "eleventy --watch",
+    "serve": "eleventy --serve"
+  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noemitaneo/returnondata-amp-11ty.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noemitaneo/returnondata-amp-11ty/issues"
+  },
+  "homepage": "https://github.com/Noemitaneo/returnondata-amp-11ty#readme",
+  "devDependencies": {
+    "@ampproject/eleventy-plugin-amp": "^0.5.8"
+  }
+}
