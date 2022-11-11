@@ -7,8 +7,8 @@
     "build": "ENV=prod eleventy",
     "watch": "eleventy --watch",
     "serve": "eleventy --serve"
-  }
-  "repository": {
+  },
+  "repository" : {
     "type": "git",
     "url": "git+https://github.com/Noemitaneo/returnondata-amp-11ty.git"
   },
